@@ -1,0 +1,46 @@
+.inputs {
+    margin-bottom: 20px;
+}
+
+.inputs input[type="radio"] {
+    margin-right: 5px;
+}
+
+.inputs label {
+    margin-right: 15px;
+}
+
+.showdata {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.table th {
+    background-color: #f2f2f2;
+    color: black;
+}
+
+.table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.table tr:hover {
+    background-color: #ddd;
+}
+
+.table img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
